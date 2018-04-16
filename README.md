@@ -1,0 +1,2 @@
+# scConfig
+distributed configuration center
